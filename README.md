@@ -12,7 +12,7 @@
 
 ## Motivation
 
-Docker based comparision of SpringBoot with JavaEE MicroProfiles. JavaEE Microprofile application is available in project [pinperf](https://github.com/skybber/pingperf).
+Docker based comparision of SpringBoot with JavaEE MicroProfiles. JavaEE Microprofile application is available in project [pingperf](https://github.com/skybber/pingperf).
 
 ## Quick start
 
